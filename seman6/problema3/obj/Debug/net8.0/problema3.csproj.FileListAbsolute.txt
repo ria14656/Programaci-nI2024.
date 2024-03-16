@@ -1,0 +1,14 @@
+C:\Users\alumno\source\repos\problema3\problema3\bin\Debug\net8.0\problema3.exe
+C:\Users\alumno\source\repos\problema3\problema3\bin\Debug\net8.0\problema3.deps.json
+C:\Users\alumno\source\repos\problema3\problema3\bin\Debug\net8.0\problema3.runtimeconfig.json
+C:\Users\alumno\source\repos\problema3\problema3\bin\Debug\net8.0\problema3.dll
+C:\Users\alumno\source\repos\problema3\problema3\bin\Debug\net8.0\problema3.pdb
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.AssemblyInfo.cs
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.dll
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\refint\problema3.dll
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.pdb
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\problema3.genruntimeconfig.cache
+C:\Users\alumno\source\repos\problema3\problema3\obj\Debug\net8.0\ref\problema3.dll
