@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\bin\Debug\net8.0\DESAFIOS123.exe
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\bin\Debug\net8.0\DESAFIOS123.deps.json
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\bin\Debug\net8.0\DESAFIOS123.runtimeconfig.json
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\bin\Debug\net8.0\DESAFIOS123.dll
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\bin\Debug\net8.0\DESAFIOS123.pdb
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.AssemblyInfo.cs
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.dll
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\refint\DESAFIOS123.dll
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.pdb
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\DESAFIOS123.genruntimeconfig.cache
+C:\Users\alumno\Desktop\desafios semana 7\DESAFIOS123\DESAFIOS123\obj\Debug\net8.0\ref\DESAFIOS123.dll
