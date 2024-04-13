@@ -1,0 +1,14 @@
+C:\Users\alumno\source\repos\problem5\problem5\bin\Debug\net8.0\problem5.exe
+C:\Users\alumno\source\repos\problem5\problem5\bin\Debug\net8.0\problem5.deps.json
+C:\Users\alumno\source\repos\problem5\problem5\bin\Debug\net8.0\problem5.runtimeconfig.json
+C:\Users\alumno\source\repos\problem5\problem5\bin\Debug\net8.0\problem5.dll
+C:\Users\alumno\source\repos\problem5\problem5\bin\Debug\net8.0\problem5.pdb
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.AssemblyInfo.cs
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.dll
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\refint\problem5.dll
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.pdb
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\problem5.genruntimeconfig.cache
+C:\Users\alumno\source\repos\problem5\problem5\obj\Debug\net8.0\ref\problem5.dll

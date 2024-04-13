@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DESAFIOS123/1.0.0": {
+        "runtime": {
+          "DESAFIOS123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESAFIOS123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
