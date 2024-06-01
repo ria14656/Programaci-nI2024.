@@ -1,0 +1,30 @@
+C:\Users\alvar\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\alvar\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\alvar\source\repos\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.Form1.resources
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\alvar\source\repos\Ventas\Ventas\obj\Debug\Ventas.pdb
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.Form1.resources
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\alvar\OneDrive\Escritorio\Ventas\Ventas\obj\Debug\Ventas.pdb
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.Form1.resources
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\Marjory Berganza\OneDrive\Desktop\pagina repuestos flores\Ventas\Ventas\obj\Debug\Ventas.pdb
